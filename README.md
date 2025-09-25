@@ -8,5 +8,6 @@ This project demonstrates basic front-end web development skills, including layo
 1. Clean and intuitive UI
 2. Perform basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
 3. Responsive design
+4. Keyboard keys also works
 
 <img width="515" height="751" alt="image" src="https://github.com/user-attachments/assets/22ab24a6-f8e1-468a-a950-e1fd0bf3b628" />
